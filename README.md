@@ -1,1 +1,3 @@
-# como-comprar-siacoin-sc
+[**Cómo comprar Siacoin (SC)**](https://topcryptoguide.com/como-comprar-siacoin-sc/)
+
+Este artículo explica **cómo comprar Siacoin (SC)**, la criptomoneda nativa de la red Sia, un proyecto de **almacenamiento descentralizado** que permite a usuarios alquilar espacio de disco mediante contratos inteligentes. Para adquirir SC normalmente debes **crear una cuenta en un exchange confiable donde esté listado** (como Binance, KuCoin o Gate.io), **verificar tu identidad** si corresponde y **depositar fondos** mediante transferencia bancaria, tarjeta o stablecoins como USDT antes de ejecutar la compra en el mercado spot. Algunos exchanges también permiten **comprar SC con tarjeta de crédito/débito** según disponibilidad. Tras la compra, se recomienda **mover tus tokens a un wallet seguro** donde controles tus claves privadas, lo que ayuda a proteger tus activos digitales.
